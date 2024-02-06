@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio%20/static/css/main.015cbe40.css",
+    "main.js": "/react-portfolio%20/static/js/main.0a758719.js",
+    "static/media/Screenshot (7).png": "/react-portfolio%20/static/media/Screenshot (7).4fc757c95b49909f2974.png",
+    "static/media/Screenshot (5).png": "/react-portfolio%20/static/media/Screenshot (5).7bc70d17298839859be2.png",
+    "static/media/Screenshot (6).png": "/react-portfolio%20/static/media/Screenshot (6).1e945b1014fa814a4365.png",
+    "static/media/drive-py.png": "/react-portfolio%20/static/media/drive-py.528d775a04fc0a328120.png",
+    "static/media/uranage.jpg": "/react-portfolio%20/static/media/uranage.8340c1863f4c1255ecc2.jpg",
+    "static/media/Clothesline.jpg": "/react-portfolio%20/static/media/Clothesline.788420ff9be76c807cfb.jpg",
+    "static/media/spear.jpg": "/react-portfolio%20/static/media/spear.1e056ba2394f073b1ec0.jpg",
+    "static/media/Soman drop.jpg": "/react-portfolio%20/static/media/Soman drop.4c36444bfbeb14722ca6.jpg",
+    "static/media/Screenshot (8).png": "/react-portfolio%20/static/media/Screenshot (8).2c683db11c5173f42351.png",
+    "static/media/roman.jpg": "/react-portfolio%20/static/media/roman.84ca585562ecb2b82915.jpg",
+    "static/media/thread.png": "/react-portfolio%20/static/media/thread.0990e642221725fc372b.png",
+    "static/media/lock.jpg": "/react-portfolio%20/static/media/lock.369f2385dc34771bd7fa.jpg",
+    "index.html": "/react-portfolio%20/index.html",
+    "main.015cbe40.css.map": "/react-portfolio%20/static/css/main.015cbe40.css.map",
+    "main.0a758719.js.map": "/react-portfolio%20/static/js/main.0a758719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.015cbe40.css",
+    "static/js/main.0a758719.js"
+  ]
+}
